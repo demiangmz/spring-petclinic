@@ -24,7 +24,7 @@ Check the Prerequisites section to make sure you are aligned with them. To impro
 
 A few suggestions for improving this PR:
 
-- Create staging and production environments.
+- Create production environment.
 - Store the EKS cluster and JenkinsX config in a store (S3 perhaps?) for versioning capabilities. Check the Terraform documentation for further insights.
 - Automate the JX boot configuration further.
 
